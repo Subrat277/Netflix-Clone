@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background:#000;
-    color: #fff;
+    background:black;
+    color: white;
     
 }
 .header{
@@ -192,7 +192,7 @@ transform: rotate(135deg);
     padding: 10px 0;
 }
 .footer .btn{
-   color: #fff;
+   color: white;
    padding: 10px 20px; 
    border-radius: 3px;
 } 
